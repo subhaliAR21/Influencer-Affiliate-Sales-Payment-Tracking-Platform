@@ -301,9 +301,9 @@ The app uses **LowDB** (a lightweight local JSON database). The `db.json` file i
 ### Influencer Performance
 ![Influencer Stats](./Screenshots/InfluencerPage.png)
 ### Payment Management
-![Payment Management Details](./Screenshots/PaymentsPage.pngScr)
+![Payment Management Details](./Screenshots/PaymentsPage.png)
 ### AI Insights & Predictions
-![AI Analysis](Screenshots\AISights.png)
+![AI Analysis](./Screenshots/AISights.png)
 
 
 ---
