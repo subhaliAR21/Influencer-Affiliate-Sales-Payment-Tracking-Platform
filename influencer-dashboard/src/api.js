@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const api = axios.create({ baseURL: 'https://influencer-affiliate-sales-payment.onrender.com' })
+const api = axios.create({ baseURL: 'https://influencer-affiliate-sales-payment.onrender.com/api' })
 
 api.interceptors.request.use(cfg => {
   const token = localStorage.getItem('token')
